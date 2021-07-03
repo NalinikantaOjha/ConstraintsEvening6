@@ -1,0 +1,2 @@
+rootProject.name = "ConstraintsEvening6"
+include ':app'
